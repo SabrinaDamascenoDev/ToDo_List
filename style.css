@@ -86,7 +86,6 @@ body{
 {
     list-style-type: none;
     font-size: 1.6rem;
-    text-transform: capitalize;
     display: flex;
     justify-content: space-between;
     border: 2px solid var(--color-dark2);
